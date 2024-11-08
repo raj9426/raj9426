@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shakthi Raj
 - 👀 I’m interested in python/front-end dev
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning React js
 - 💞️ I’m looking to collaborate on hackathons
 - 📫 Reach me at shakthiraj9426@gmail.com
 
